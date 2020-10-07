@@ -1,0 +1,23 @@
+{
+  "name": "gratis",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulesSorensen/Gratis.git"
+  },
+  "author": "Wilfre#3347",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulesSorensen/Gratis/issues"
+  },
+  "homepage": "https://github.com/JulesSorensen/Gratis#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security"
+  }
+}
